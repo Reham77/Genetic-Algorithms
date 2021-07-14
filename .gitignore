@@ -2,3 +2,4 @@ GeneticAlgorithms/CMakeLists.txt
 *.a
 .idea/
 cmake-build-debug/
+CMakeLists.txt
