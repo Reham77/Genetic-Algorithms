@@ -1,4 +1,4 @@
-#include "GeneticAlgorithm.cpp"
+#include "../GeneticAlgorithm.cpp"
 
 
 class KnapsackGA : public GeneticAlgorithm<int> {
