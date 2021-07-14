@@ -1,5 +1,5 @@
-#include "GeneticAlgorithm.cpp"
-#include "Point.h"
+#include "../GeneticAlgorithm.cpp"
+#include "../Point.h"
 
 
 class CurveFittingGA : public GeneticAlgorithm<double> {
